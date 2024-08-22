@@ -8,12 +8,12 @@
 <title>Insert title here</title>
 </head>
 <body>
-  <!-- Footer Section -->
+
 <section class="footer bg-dark">
   <div class="container text-white py-5 text-center">
-     <p>Copyright © <%=Calendar.getInstance().get(Calendar.YEAR)%>  ATM Management System</p>
+     <p>Copyright Â© <%=Calendar.getInstance().get(Calendar.YEAR)%>  ATM Management System</p>
   </div>
 </section>
-<!-- Footer End Section -->
+
 </body>
 </html>
