@@ -90,7 +90,7 @@
 
 </head>
 <body>
-	<!-- header start -->
+	
 	<nav class="navbar navbar-expand-lg navbar-light bg-dark">
 		<div class="container">
 			<a class="navbar-brand text-white" href="<c:url value = "/welcome" />"><b><span style="color: #ade7ad;">ATM Management System</span> </b></a>
@@ -176,9 +176,7 @@
 			</div>
 		</div>
 	</nav>
-	<!-- Header End -->
-
-	<!-- Header Section -->
+	
 
 </body>
 </html>
