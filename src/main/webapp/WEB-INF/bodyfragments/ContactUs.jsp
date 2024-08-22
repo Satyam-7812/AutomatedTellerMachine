@@ -62,7 +62,7 @@
         </div>
         <div class="col-md-4">
             <form>
-            <legend><span class="glyphicon glyphicon-globe"></span> Our office</legend>
+            <legend><span class="glyphicon glyphicon-globe"></span>Â Our office</legend>
             <address>
                 <strong>Twitter, Inc.</strong><br>
                 795 Folsom Ave, Suite 600<br>
@@ -73,7 +73,7 @@
             </address>
             <address>
                 <strong>Full Name</strong><br>
-                <a href="mailto:#">first.last@example.com</a>
+                <a href="mailto:#">satyam7812@gmail.com</a>
             </address>
             </form>
         </div>
