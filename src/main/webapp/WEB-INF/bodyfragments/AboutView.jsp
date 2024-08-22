@@ -49,7 +49,7 @@
 	padding-left: 57px;
 }
 
-/* Social Icons */
+
 .about-icons {
 	margin: 48px 0px 48px 0px;
 }
